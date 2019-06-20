@@ -54,5 +54,10 @@ namespace MyMp3Player
 		{
 
 		}
-	}
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
